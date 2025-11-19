@@ -1,1 +1,3 @@
-# CSA1404
+# compiler_design
+
+## Practical programs ##
